@@ -11,6 +11,8 @@
 * [YouTube](#youtube)
 * [Etc.](#etc)
 
+---
+
 ### One day before
 
 **See preview of example WordPress post [here](http://blogs.registerguard.com/oregon-football/?p=21483&preview=true) (must be logged in)**
