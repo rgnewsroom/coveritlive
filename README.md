@@ -2,6 +2,9 @@
 
 ### One day before
 
+**See preview of example WordPress post [here](http://blogs.registerguard.com/oregon-football/?p=21483&preview=true) (must be logged in)**
+
+
 * Create new CoverItLive event, turn social sharing off
 * Add in the custom URL you set up via bit.ly. ie: http://rgne.ws/UOvsMSU
 * Turn on 100% width in Embed field
