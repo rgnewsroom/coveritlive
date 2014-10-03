@@ -123,7 +123,7 @@ Add boilerplate game day information, for example:
 </section>
 ```
 
-Below, [embed tweets](https://github.com/rgnewsroom/twitter/tree/gh-pages/embeds) that contain story information.
+Below, [manually embed tweets](https://github.com/rgnewsroom/twitter/tree/gh-pages/embeds) that contain relevant story information.
 
 #### Publish post
 
@@ -131,11 +131,17 @@ Publish post one day before game day.
 
 #### Shorten URL
 
-Copy post URL and shorten with bit.ly using The Register-Guard’s account, which will produce an `rgne.ws` URL.
+Copy the post’s URL and shorten with [bit.ly](https://bitly.com/); login using the Register-Guard’s bit.ly account in order to obtain an `rgne.ws` URL.
 
 #### Promote
 
-Share and promote landing on social media.
+[Share and promote blog post landing page](https://twitter.com/robertrdenton/status/517719999008346112) on social media, e.g., [Twitter](https://twitter.com/):
+
+[![promote Twitter](https://cloud.githubusercontent.com/assets/218624/4512230/d7ea4110-4b3d-11e4-9b4e-513ceef7cdf2.png)](https://twitter.com/robertrdenton/status/517719999008346112)
+
+… and [Facebook](https://www.facebook.com/):
+
+![promote-facebook](https://cloud.githubusercontent.com/assets/218624/4512268/3324b1aa-4b3e-11e4-8435-d77629398fc8.png)
 
 ### Game day: Pre-game coverage
 
@@ -186,3 +192,4 @@ Finish off by thanking fans and by linking to story recap and teasing other stor
 End the event, this should be within an hour of the game ending since these are “live updates”. It’s nice to end with a link to the recap story.
 
 ![end](https://cloud.githubusercontent.com/assets/218624/4511796/fdc5ec90-4b38-11e4-8b9a-dd27801cb0ce.gif)
+
