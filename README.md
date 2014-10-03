@@ -74,9 +74,13 @@ Click the blue “Publish” button.
 
 #### Pre-populate
 
-Find pre-game coverage (e.g., tweets from the sports staff) via the search icon in the top-right corner. Once found, click the plus icon that appears when hovering over tweet. This should be approximately 5 tweets, consisting of the stories in today’s newspaper and/or any other relevant information:
+Via the search icon in the top-right corner, find at least 5 tweets of pre-game coverage (e.g., tweets from the sports staff ) consisting of the stories in today’s newspaper and/or any other relevant information:
 
 ![search](https://cloud.githubusercontent.com/assets/218624/4510993/0a902746-4b30-11e4-8045-4e5db7ad84aa.png)
+
+Once desired content is found, click the plus icon (that appears when hovering over tweet) and add it to the “Published Content” box:
+
+![add-tweet](https://cloud.githubusercontent.com/assets/218624/4512094/5b37f51e-4b3c-11e4-9c81-62cdcbfe31f6.gif)
 
 ### One day before: [WordPress](http://blogs.registerguard.com/oregon-football/)
 
