@@ -135,13 +135,13 @@ Copy the post’s URL and shorten with [bit.ly](https://bitly.com/); login using
 
 #### Promote
 
-[Share and promote blog post landing page](https://twitter.com/robertrdenton/status/517719999008346112) on social media, e.g., [Twitter](https://twitter.com/):
+Share and promote blog post landing page on social media, e.g., [Twitter](https://twitter.com/robertrdenton/status/517719999008346112):
 
 [![promote Twitter](https://cloud.githubusercontent.com/assets/218624/4512230/d7ea4110-4b3d-11e4-9b4e-513ceef7cdf2.png)](https://twitter.com/robertrdenton/status/517719999008346112)
 
-… and [Facebook](https://www.facebook.com/):
+… and [Facebook](https://www.facebook.com/registerguard/posts/10152345753397256):
 
-![promote-facebook](https://cloud.githubusercontent.com/assets/218624/4512268/3324b1aa-4b3e-11e4-8435-d77629398fc8.png)
+[![promote-facebook](https://cloud.githubusercontent.com/assets/218624/4512268/3324b1aa-4b3e-11e4-8435-d77629398fc8.png)](https://www.facebook.com/registerguard/posts/10152345753397256)
 
 ### Game day: Pre-game coverage
 
