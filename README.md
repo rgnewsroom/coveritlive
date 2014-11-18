@@ -24,7 +24,7 @@ Login to the RG‘s [CoveritLive](http://www.coveritlive.com/) account and click
 
 Fill in the form fileds as best as you can.
 
-Turn off “Social Sharing” option:
+**Turn off “Social Sharing” option. This is important because if you don't do this you will automatically tweet from The Register-Guard twitter account with some boilerplate garbage that will not be good.**
 
 ![social-sharing](https://cloud.githubusercontent.com/assets/218624/4484825/9a0d6314-49c0-11e4-8ac1-f8f75cd8470b.png)
 
