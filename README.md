@@ -205,14 +205,13 @@ Final:
 ![final](https://cloud.githubusercontent.com/assets/4853944/5098469/862cc182-6f3b-11e4-9ba5-7cb5543a282d.png)
 
 
-
 ### In-game coverage
 
 Aggregate social media throughout game using CoveritLive interface. If you have moderation turned off for any individuals, make sure to keep an eye on them.
 
 Occasionally check `#goducks` hashtag for other visual content.
 
-As the game progresses, update post title to reflect quarter and score (e.g., “4th quarter: Oregon 24, Arizona 31 | Live updates and game day information”. Also be sure to update the title of the GAMEDAY story via DT to reflect quarter and score.
+**As the game progresses, update post title to reflect quarter and score (e.g., “4th quarter: Oregon 24, Arizona 31 | Live updates and game day information”. Also be sure to update the title of the GAMEDAY story via DT to reflect quarter and score.**
 
 Throughout game update the post’s publish date.
 
