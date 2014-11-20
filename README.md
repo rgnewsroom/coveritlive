@@ -7,6 +7,7 @@
 * CoveritLive embed (can automate)
 * blogs.registerguard.com/oregon-football post (headline, time updates)
 * DT GAMEDAY story (headline updates)
+* RG bit.ly shortlink
 * Quarter recap email from sports (paste into CoveritLive)
 * Push notifications from Duck FB app (before, half, after)
 * @rgsports Twitter (only as promotion to games)
