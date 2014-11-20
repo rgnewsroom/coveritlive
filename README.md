@@ -1,5 +1,19 @@
 # CoveritLive example: Oregon Football
 
+## Overview
+
+### Interaction points (ranked in order of importance)
+
+* CoveritLive embed (can automate)
+* blogs.registerguard.com/oregon-football post (headline, time updates)
+* DT GAMEDAY story (headline updates)
+* Quarter recap email from sports (paste into CoveritLive)
+* Push notifications from Duck FB app (before, half, after)
+* @rgsports Twitter (only as promotion to games)
+* #goducks on Twitter and Instagram (supplemental coverage, SID content, images to break up feed)
+
+### Introduction
+
 **Example workflow using CoveritLive to publish live updates during an Oregon Football game.**
 
 Take the concepts and techniques outlined below and apply to any CoveritLive workflow.
